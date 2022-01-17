@@ -1,0 +1,40 @@
+p{
+background-color: #f07b8e;
+}
+h1{
+    color: darkgreen ;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    font-weight: bolder;
+    padding-top: 20px;
+    
+
+}
+.navig{
+    padding-top: 60px;
+}
+.l1 {
+    background-color:rgba(243, 198, 198, 0.3);
+
+}
+.border
+{
+    border: black;
+}
+.image
+{
+    height: 222px;
+    width:400px
+}
+ @media (max-width: 991.px){
+     .image{
+        height: 444px;
+        width:800px
+     }
+ }
+
+@media (max-width: 1399.98px){
+     .image{
+        height: 500px;
+        width:900px
+     }
+ }
